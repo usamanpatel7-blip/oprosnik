@@ -1,0 +1,13 @@
+# Локальные и служебные файлы
+.DS_Store
+Thumbs.db
+.env
+.env.*
+node_modules/
+.openai/
+*.zip
+
+# Ответы клиентов и черновики не должны попадать в репозиторий
+brief-draft*.json
+client-brief*.json
+client-brief*.txt
